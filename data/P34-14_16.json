@@ -1,0 +1,86 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "P34_001": "16201", "P34_002": "1", "P34_003": "富山市役所", "P34_004": "富山市新桜町7-38" }, "geometry": { "type": "Point", "coordinates": [ 137.213449, 36.695982 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16201", "P34_002": "2", "P34_003": "大沢野総合行政センター", "P34_004": "富山市高内333" }, "geometry": { "type": "Point", "coordinates": [ 137.204895, 36.579855 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16201", "P34_002": "2", "P34_003": "大山総合行政センター", "P34_004": "富山市上滝525" }, "geometry": { "type": "Point", "coordinates": [ 137.298907, 36.609634 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16201", "P34_002": "2", "P34_003": "八尾総合行政センター", "P34_004": "富山市八尾町福島151" }, "geometry": { "type": "Point", "coordinates": [ 137.140015, 36.58547 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16201", "P34_002": "2", "P34_003": "婦中総合行政センター", "P34_004": "富山市婦中町速星754" }, "geometry": { "type": "Point", "coordinates": [ 137.160084, 36.6615 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16201", "P34_002": "2", "P34_003": "山田総合行政センター", "P34_004": "富山市山田湯780" }, "geometry": { "type": "Point", "coordinates": [ 137.079389, 36.578909 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16201", "P34_002": "2", "P34_003": "細入総合行政センター", "P34_004": "富山市楡原1088" }, "geometry": { "type": "Point", "coordinates": [ 137.229317, 36.528256 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16202", "P34_002": "1", "P34_003": "高岡市役所", "P34_004": "高岡市広小路7-50" }, "geometry": { "type": "Point", "coordinates": [ 137.02572, 36.754099 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16202", "P34_002": "2", "P34_003": "福岡総合行政センター", "P34_004": "高岡市福岡町大滝12" }, "geometry": { "type": "Point", "coordinates": [ 136.923835, 36.707636 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16202", "P34_002": "2", "P34_003": "伏木支所", "P34_004": "高岡市伏木中央町6-1" }, "geometry": { "type": "Point", "coordinates": [ 137.06195, 36.796548 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16202", "P34_002": "2", "P34_003": "戸出支所", "P34_004": "高岡市戸出町2-13-4" }, "geometry": { "type": "Point", "coordinates": [ 136.978845, 36.686241 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16202", "P34_002": "2", "P34_003": "中田支所", "P34_004": "高岡市下麻生1108" }, "geometry": { "type": "Point", "coordinates": [ 137.022212, 36.684182 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16204", "P34_002": "1", "P34_003": "魚津市役所", "P34_004": "魚津市釈迦堂1-10-1" }, "geometry": { "type": "Point", "coordinates": [ 137.40919, 36.827367 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16205", "P34_002": "1", "P34_003": "氷見市役所", "P34_004": "氷見市鞍川1060" }, "geometry": { "type": "Point", "coordinates": [ 136.972868, 36.855978 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16206", "P34_002": "1", "P34_003": "滑川市役所", "P34_004": "滑川市寺家町104" }, "geometry": { "type": "Point", "coordinates": [ 137.34118, 36.764394 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16207", "P34_002": "1", "P34_003": "黒部市役所", "P34_004": "黒部市三日市725" }, "geometry": { "type": "Point", "coordinates": [ 137.449095, 36.87359 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16207", "P34_002": "2", "P34_003": "宇奈月庁舎", "P34_004": "黒部市宇奈月町内山3353" }, "geometry": { "type": "Point", "coordinates": [ 137.555313, 36.857241 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16208", "P34_002": "1", "P34_003": "砺波市役所", "P34_004": "砺波市栄町7-3" }, "geometry": { "type": "Point", "coordinates": [ 136.962167, 36.647467 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16208", "P34_002": "2", "P34_003": "庄川支所", "P34_004": "砺波市庄川町青島401" }, "geometry": { "type": "Point", "coordinates": [ 136.98609, 36.577241 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16209", "P34_002": "1", "P34_003": "小矢部市役所", "P34_004": "小矢部市本町1-1" }, "geometry": { "type": "Point", "coordinates": [ 136.868653, 36.675531 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "1", "P34_003": "南砺市役所", "P34_004": "南砺市苗島4880" }, "geometry": { "type": "Point", "coordinates": [ 136.919511, 36.588049 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "2", "P34_003": "井波庁舎", "P34_004": "南砺市井波520" }, "geometry": { "type": "Point", "coordinates": [ 136.97159, 36.564945 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "2", "P34_003": "城端庁舎", "P34_004": "南砺市城端1046" }, "geometry": { "type": "Point", "coordinates": [ 136.9005, 36.512223 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "2", "P34_003": "平行政センター", "P34_004": "南砺市下梨2240" }, "geometry": { "type": "Point", "coordinates": [ 136.951001, 36.432624 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "2", "P34_003": "上平行政センター", "P34_004": "南砺市上平細島879" }, "geometry": { "type": "Point", "coordinates": [ 136.89958, 36.401798 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "2", "P34_003": "利賀行政センター", "P34_004": "南砺市利賀村171" }, "geometry": { "type": "Point", "coordinates": [ 137.026355, 36.457497 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "2", "P34_003": "井口行政センター", "P34_004": "南砺市蛇喰1009" }, "geometry": { "type": "Point", "coordinates": [ 136.930231, 36.542097 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16210", "P34_002": "2", "P34_003": "福光庁舎", "P34_004": "南砺市荒木1550" }, "geometry": { "type": "Point", "coordinates": [ 136.875441, 36.55748 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16211", "P34_002": "1", "P34_003": "射水市役所", "P34_004": "射水市戸破1511" }, "geometry": { "type": "Point", "coordinates": [ 137.099559, 36.712222 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16211", "P34_002": "2", "P34_003": "新湊庁舎", "P34_004": "射水市本町2-10-30" }, "geometry": { "type": "Point", "coordinates": [ 137.07953, 36.782464 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16211", "P34_002": "2", "P34_003": "大門庁舎", "P34_004": "射水市二口1081" }, "geometry": { "type": "Point", "coordinates": [ 137.048611, 36.722412 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16211", "P34_002": "2", "P34_003": "大島庁舎", "P34_004": "射水市小島703" }, "geometry": { "type": "Point", "coordinates": [ 137.06312, 36.732669 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16211", "P34_002": "2", "P34_003": "下庁舎", "P34_004": "射水市加茂中部893" }, "geometry": { "type": "Point", "coordinates": [ 137.148567, 36.740728 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16321", "P34_002": "1", "P34_003": "舟橋村役場", "P34_004": "舟橋村仏生寺55" }, "geometry": { "type": "Point", "coordinates": [ 137.30737, 36.703525 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16322", "P34_002": "1", "P34_003": "上市町役場", "P34_004": "上市町法音寺1" }, "geometry": { "type": "Point", "coordinates": [ 137.362586, 36.698429 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16323", "P34_002": "1", "P34_003": "立山町役場", "P34_004": "立山町前沢2440" }, "geometry": { "type": "Point", "coordinates": [ 137.313658, 36.663346 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16342", "P34_002": "1", "P34_003": "入善町役場", "P34_004": "入善町入膳3255" }, "geometry": { "type": "Point", "coordinates": [ 137.502128, 36.933578 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16342", "P34_002": "2", "P34_003": "舟見連絡所", "P34_004": "入善町舟見1074-1" }, "geometry": { "type": "Point", "coordinates": [ 137.551062, 36.882857 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16343", "P34_002": "1", "P34_003": "朝日町役場", "P34_004": "朝日町道下1133" }, "geometry": { "type": "Point", "coordinates": [ 137.559868, 36.946179 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "16211", "P34_002": "2", "P34_003": "布目庁舎", "P34_004": "射水市布目1" }, "geometry": { "type": "Point", "coordinates": [ 137.0789, 36.7448 ] } }
+
+]
+}

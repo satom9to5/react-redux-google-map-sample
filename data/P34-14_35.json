@@ -1,0 +1,374 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "1", "P34_003": "下関市役所", "P34_004": "下関市南部町1-1" }, "geometry": { "type": "Point", "coordinates": [ 130.941459, 33.957828 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "菊川総合支所", "P34_004": "下関市菊川町大字田部734-1" }, "geometry": { "type": "Point", "coordinates": [ 131.03627, 34.118798 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "豊田総合支所", "P34_004": "下関市豊田町大字殿敷1918-1" }, "geometry": { "type": "Point", "coordinates": [ 131.07604, 34.203721 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "豊浦総合支所", "P34_004": "下関市豊浦町大字川棚6895-1" }, "geometry": { "type": "Point", "coordinates": [ 130.923739, 34.145886 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "豊北総合支所", "P34_004": "下関市豊北町大字滝部3140-1" }, "geometry": { "type": "Point", "coordinates": [ 130.94886, 34.290073 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "彦島支所", "P34_004": "下関市彦島江の浦町1-3-1" }, "geometry": { "type": "Point", "coordinates": [ 130.914103, 33.937171 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "長府支所", "P34_004": "下関市長府土居の内町1-6" }, "geometry": { "type": "Point", "coordinates": [ 130.990784, 33.998882 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "王司支所", "P34_004": "下関市王司神田1-9-1" }, "geometry": { "type": "Point", "coordinates": [ 131.015059, 34.046098 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "清末支所", "P34_004": "下関市清末陣屋5-20" }, "geometry": { "type": "Point", "coordinates": [ 131.021489, 34.064032 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "小月支所", "P34_004": "下関市小月本町1-7-7" }, "geometry": { "type": "Point", "coordinates": [ 131.03397, 34.071395 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "王喜支所", "P34_004": "下関市王喜本町2-15-10" }, "geometry": { "type": "Point", "coordinates": [ 131.053201, 34.064068 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "吉田支所", "P34_004": "下関市大字吉田地方2499" }, "geometry": { "type": "Point", "coordinates": [ 131.073135, 34.091227 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "勝山支所", "P34_004": "下関市秋根南町2-4-33" }, "geometry": { "type": "Point", "coordinates": [ 130.953154, 34.008184 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "内日支所", "P34_004": "下関市大字内日下1146-5" }, "geometry": { "type": "Point", "coordinates": [ 130.970684, 34.09991 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "川中支所", "P34_004": "下関市綾羅木本町3-1-20" }, "geometry": { "type": "Point", "coordinates": [ 130.924732, 34.003465 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "安岡支所", "P34_004": "下関市安岡駅前2-7-1" }, "geometry": { "type": "Point", "coordinates": [ 130.915549, 34.023293 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "吉見支所", "P34_004": "下関市大字吉見下1533" }, "geometry": { "type": "Point", "coordinates": [ 130.90292, 34.071034 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "室津支所", "P34_004": "下関市豊浦町大字室津下681-3" }, "geometry": { "type": "Point", "coordinates": [ 130.886345, 34.133287 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "黒井支所", "P34_004": "下関市豊浦町大字黒井2351" }, "geometry": { "type": "Point", "coordinates": [ 130.90978, 34.127421 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "宇賀支所", "P34_004": "下関市豊浦町大字宇賀7925-1" }, "geometry": { "type": "Point", "coordinates": [ 130.931395, 34.212057 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "小串支所", "P34_004": "下関市豊浦町大字小串2207-1" }, "geometry": { "type": "Point", "coordinates": [ 130.92924, 34.176108 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "豊洋台支所", "P34_004": "下関市豊浦町豊洋台1-447-290" }, "geometry": { "type": "Point", "coordinates": [ 130.910707, 34.11362 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "神玉支所", "P34_004": "下関市豊北町大字神田上2709" }, "geometry": { "type": "Point", "coordinates": [ 130.894352, 34.284843 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "神田支所", "P34_004": "下関市豊北町大字神田1227-2" }, "geometry": { "type": "Point", "coordinates": [ 130.896194, 34.316525 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "角島支所", "P34_004": "下関市豊北町大字角島1413-1" }, "geometry": { "type": "Point", "coordinates": [ 130.86762, 34.355676 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "阿川支所", "P34_004": "下関市豊北町大字阿川3752" }, "geometry": { "type": "Point", "coordinates": [ 130.924906, 34.340099 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "粟野支所", "P34_004": "下関市豊北町大字粟野3333-2" }, "geometry": { "type": "Point", "coordinates": [ 130.980467, 34.340326 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35201", "P34_002": "2", "P34_003": "田耕支所", "P34_004": "下関市豊北町大字田耕4332-2" }, "geometry": { "type": "Point", "coordinates": [ 130.989247, 34.269868 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35202", "P34_002": "1", "P34_003": "宇部市役所", "P34_004": "宇部市常盤町1-7-1" }, "geometry": { "type": "Point", "coordinates": [ 131.246761, 33.951623 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35202", "P34_002": "2", "P34_003": "楠総合支所", "P34_004": "宇部市大字船木365-1" }, "geometry": { "type": "Point", "coordinates": [ 131.225198, 34.044831 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35202", "P34_002": "2", "P34_003": "万倉出張所", "P34_004": "宇部市大字西万倉1672" }, "geometry": { "type": "Point", "coordinates": [ 131.242806, 34.071201 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35202", "P34_002": "2", "P34_003": "吉部出張所", "P34_004": "宇部市大字東吉部3330-7" }, "geometry": { "type": "Point", "coordinates": [ 131.282682, 34.12498 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35203", "P34_002": "1", "P34_003": "山口市役所", "P34_004": "山口市亀山町2-1" }, "geometry": { "type": "Point", "coordinates": [ 131.473511, 34.178178 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35203", "P34_002": "2", "P34_003": "小郡総合支所", "P34_004": "山口市小郡下郷609-1" }, "geometry": { "type": "Point", "coordinates": [ 131.392346, 34.102407 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35203", "P34_002": "2", "P34_003": "秋穂総合支所", "P34_004": "山口市秋穂東6570" }, "geometry": { "type": "Point", "coordinates": [ 131.437433, 34.014455 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35203", "P34_002": "2", "P34_003": "阿知須総合支所", "P34_004": "山口市阿知須2743" }, "geometry": { "type": "Point", "coordinates": [ 131.359133283547862, 34.012546956509183 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35203", "P34_002": "2", "P34_003": "徳地総合支所", "P34_004": "山口市徳地堀1744" }, "geometry": { "type": "Point", "coordinates": [ 131.655402, 34.189368 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35203", "P34_002": "2", "P34_003": "阿東総合支所", "P34_004": "山口市阿東徳佐中3417-2" }, "geometry": { "type": "Point", "coordinates": [ 131.72088, 34.397134 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "1", "P34_003": "萩市役所", "P34_004": "萩市大字江向510" }, "geometry": { "type": "Point", "coordinates": [ 131.399104, 34.408107 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "川上総合事務所", "P34_004": "萩市川上4462-1" }, "geometry": { "type": "Point", "coordinates": [ 131.460033, 34.357602 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "田万川総合事務所", "P34_004": "萩市大字下田万1036" }, "geometry": { "type": "Point", "coordinates": [ 131.660895, 34.637581 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "むつみ総合事務所", "P34_004": "萩市大字吉部上3191-1" }, "geometry": { "type": "Point", "coordinates": [ 131.577631, 34.437454 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "須佐総合事務所", "P34_004": "萩市大字須佐4570-5" }, "geometry": { "type": "Point", "coordinates": [ 131.602172, 34.61842 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "旭総合事務所", "P34_004": "萩市大字明木3174" }, "geometry": { "type": "Point", "coordinates": [ 131.414397, 34.34481 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "福栄総合事務所", "P34_004": "萩市大字福井下4013-1" }, "geometry": { "type": "Point", "coordinates": [ 131.48342, 34.433547 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "見島支所", "P34_004": "萩市見島326-12" }, "geometry": { "type": "Point", "coordinates": [ 131.152071, 34.763601 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "小川支所", "P34_004": "萩市大字上小川東分1332" }, "geometry": { "type": "Point", "coordinates": [ 131.677297, 34.591184 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "高俣支所", "P34_004": "萩市大字高佐下744" }, "geometry": { "type": "Point", "coordinates": [ 131.61091, 34.471771 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "弥富支所", "P34_004": "萩市大字弥富下4043" }, "geometry": { "type": "Point", "coordinates": [ 131.640965, 34.549215 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "佐々並支所", "P34_004": "萩市大字佐々並2662-6" }, "geometry": { "type": "Point", "coordinates": [ 131.462177, 34.286273 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "紫福支所", "P34_004": "萩市大字紫福3446-1" }, "geometry": { "type": "Point", "coordinates": [ 131.534315, 34.46103 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "三見出張所", "P34_004": "萩市三見2393" }, "geometry": { "type": "Point", "coordinates": [ 131.33476, 34.392143 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "大井出張所", "P34_004": "萩市大井1404-1" }, "geometry": { "type": "Point", "coordinates": [ 131.451203, 34.469117 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35204", "P34_002": "2", "P34_003": "大島出張所", "P34_004": "萩市大島105" }, "geometry": { "type": "Point", "coordinates": [ 131.408595, 34.490755 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "1", "P34_003": "防府市役所", "P34_004": "防府市寿町7-1" }, "geometry": { "type": "Point", "coordinates": [ 131.562627, 34.051756 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "牟礼出張所", "P34_004": "防府市大字江泊1802-1" }, "geometry": { "type": "Point", "coordinates": [ 131.605439, 34.054494 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "向島出張所", "P34_004": "防府市大字向島636-7" }, "geometry": { "type": "Point", "coordinates": [ 131.580609, 34.019164 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "中関出張所", "P34_004": "防府市大字田島1434-2" }, "geometry": { "type": "Point", "coordinates": [ 131.547823, 34.021133 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "華城出張所", "P34_004": "防府市西仁井令2-26-1" }, "geometry": { "type": "Point", "coordinates": [ 131.54493, 34.048963 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "西浦出張所", "P34_004": "防府市大字西浦1457-3" }, "geometry": { "type": "Point", "coordinates": [ 131.524, 34.024926 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "右田出張所", "P34_004": "防府市大字高井614" }, "geometry": { "type": "Point", "coordinates": [ 131.55368, 34.068941 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "野島出張所", "P34_004": "防府市大字野島679-11" }, "geometry": { "type": "Point", "coordinates": [ 131.692995, 33.942782 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "富海出張所", "P34_004": "防府市大字富海1203-1" }, "geometry": { "type": "Point", "coordinates": [ 131.643679, 34.052182 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "小野出張所", "P34_004": "防府市大字奈美126" }, "geometry": { "type": "Point", "coordinates": [ 131.605636, 34.126447 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35206", "P34_002": "2", "P34_003": "大道出張所", "P34_004": "防府市大字台道413-1" }, "geometry": { "type": "Point", "coordinates": [ 131.4887, 34.059896 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35207", "P34_002": "1", "P34_003": "下松市役所", "P34_004": "下松市大手町3-3-3" }, "geometry": { "type": "Point", "coordinates": [ 131.870317, 34.015038 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35207", "P34_002": "2", "P34_003": "久保出張所", "P34_004": "下松市大字河内字京田583-1" }, "geometry": { "type": "Point", "coordinates": [ 131.90249, 34.027788 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35207", "P34_002": "2", "P34_003": "花岡出張所", "P34_004": "下松市大字末武上字東田1280-1" }, "geometry": { "type": "Point", "coordinates": [ 131.87416, 34.035688 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35207", "P34_002": "2", "P34_003": "末武出張所", "P34_004": "下松市潮音町1-1-2" }, "geometry": { "type": "Point", "coordinates": [ 131.856657, 34.018388 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35207", "P34_002": "2", "P34_003": "笠戸島出張所", "P34_004": "下松市大字笠戸島字界698" }, "geometry": { "type": "Point", "coordinates": [ 131.850481, 33.952681 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35207", "P34_002": "2", "P34_003": "米川出張所", "P34_004": "下松市大字下谷字中村167-1" }, "geometry": { "type": "Point", "coordinates": [ 131.87632, 34.079972 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "1", "P34_003": "岩国市役所", "P34_004": "岩国市今津町1-14-51" }, "geometry": { "type": "Point", "coordinates": [ 132.218942, 34.1665 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "由宇総合支所", "P34_004": "岩国市由宇町中央1-1-10" }, "geometry": { "type": "Point", "coordinates": [ 132.211937, 34.046812 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "玖珂総合支所", "P34_004": "岩国市玖珂町5990" }, "geometry": { "type": "Point", "coordinates": [ 132.080765, 34.094397 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "本郷総合支所", "P34_004": "岩国市本郷町本郷1604" }, "geometry": { "type": "Point", "coordinates": [ 132.039246, 34.294848 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "周東総合支所", "P34_004": "岩国市周東町下久原1209-1" }, "geometry": { "type": "Point", "coordinates": [ 132.051182, 34.093084 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "錦総合支所", "P34_004": "岩国市錦町広瀬6748" }, "geometry": { "type": "Point", "coordinates": [ 131.959852, 34.264316 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "美川総合支所", "P34_004": "岩国市美川町四馬神1046-1" }, "geometry": { "type": "Point", "coordinates": [ 131.987576, 34.240331 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "美和総合支所", "P34_004": "岩国市美和町生見2126" }, "geometry": { "type": "Point", "coordinates": [ 132.077994, 34.22409 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "岩国出張所", "P34_004": "岩国市岩国4-4-15" }, "geometry": { "type": "Point", "coordinates": [ 132.18452, 34.164756 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "平田出張所", "P34_004": "岩国市平田3-22-18" }, "geometry": { "type": "Point", "coordinates": [ 132.186384, 34.14232 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "装港出張所", "P34_004": "岩国市装束町1-1-43" }, "geometry": { "type": "Point", "coordinates": [ 132.23011, 34.193039 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "柱島出張所", "P34_004": "岩国市柱島132-7" }, "geometry": { "type": "Point", "coordinates": [ 132.421389, 34.021933 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "川下出張所", "P34_004": "岩国市中津町2-1-3" }, "geometry": { "type": "Point", "coordinates": [ 132.216642, 34.156143 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "愛宕出張所", "P34_004": "岩国市門前町2-35-2" }, "geometry": { "type": "Point", "coordinates": [ 132.21226, 34.145908 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "灘出張所", "P34_004": "岩国市藤生町1-10-14" }, "geometry": { "type": "Point", "coordinates": [ 132.199679, 34.114977 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "小瀬出張所", "P34_004": "岩国市小瀬285-2" }, "geometry": { "type": "Point", "coordinates": [ 132.192463, 34.208451 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "藤河出張所", "P34_004": "岩国市多田2-117-1" }, "geometry": { "type": "Point", "coordinates": [ 132.16689, 34.180782 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "御庄出張所", "P34_004": "岩国市御庄1735" }, "geometry": { "type": "Point", "coordinates": [ 132.146519, 34.161894 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "北河内出張所", "P34_004": "岩国市下446-2" }, "geometry": { "type": "Point", "coordinates": [ 132.090642, 34.162988 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "南河内出張所", "P34_004": "岩国市土生39-3" }, "geometry": { "type": "Point", "coordinates": [ 132.103399, 34.152153 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "師木野出張所", "P34_004": "岩国市柱野831-1" }, "geometry": { "type": "Point", "coordinates": [ 132.148673, 34.135116 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "通津出張所", "P34_004": "岩国市通津2571-5" }, "geometry": { "type": "Point", "coordinates": [ 132.20717, 34.07157 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "祖生出張所", "P34_004": "岩国市周東町祖生4541-1" }, "geometry": { "type": "Point", "coordinates": [ 132.116451, 34.071574 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "米川出張所", "P34_004": "岩国市周東町下須通378" }, "geometry": { "type": "Point", "coordinates": [ 132.012722306968016, 34.091141575380306 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "川越出張所", "P34_004": "岩国市周東町おそ越1560-5" }, "geometry": { "type": "Point", "coordinates": [ 131.98953, 34.133238 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "深須出張所", "P34_004": "岩国市錦町深川2770" }, "geometry": { "type": "Point", "coordinates": [ 131.99134, 34.315708 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "高根出張所", "P34_004": "岩国市錦町宇佐郷1046" }, "geometry": { "type": "Point", "coordinates": [ 132.022949, 34.376076 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "南桑出張所", "P34_004": "岩国市美川町南桑2420-1" }, "geometry": { "type": "Point", "coordinates": [ 132.022613, 34.209768 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35208", "P34_002": "2", "P34_003": "根笠出張所", "P34_004": "岩国市美川町根笠598" }, "geometry": { "type": "Point", "coordinates": [ 131.99371, 34.198308 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35210", "P34_002": "1", "P34_003": "光市役所", "P34_004": "光市中央6-1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.942296, 33.961916 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35210", "P34_002": "2", "P34_003": "大和支所", "P34_004": "光市大字岩田2356-1" }, "geometry": { "type": "Point", "coordinates": [ 131.998628, 33.983154 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35210", "P34_002": "2", "P34_003": "浅江出張所", "P34_004": "光市浅江3-18-11" }, "geometry": { "type": "Point", "coordinates": [ 131.92402, 33.972692 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35210", "P34_002": "2", "P34_003": "牛島出張所", "P34_004": "光市大字牛島763-9" }, "geometry": { "type": "Point", "coordinates": [ 132.006442553934733, 33.859318351645555 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35210", "P34_002": "2", "P34_003": "周防出張所", "P34_004": "光市大字小周防1522-1" }, "geometry": { "type": "Point", "coordinates": [ 131.976738, 34.016716 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35210", "P34_002": "2", "P34_003": "三島出張所", "P34_004": "光市三井6-3-1" }, "geometry": { "type": "Point", "coordinates": [ 131.957474, 33.989515 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35210", "P34_002": "2", "P34_003": "室積出張所", "P34_004": "光市室積1-4-1" }, "geometry": { "type": "Point", "coordinates": [ 131.972933, 33.930621 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "1", "P34_003": "長門市役所", "P34_004": "長門市東深川1339-2" }, "geometry": { "type": "Point", "coordinates": [ 131.182198, 34.370959 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "三隅支所", "P34_004": "長門市三隅中1473" }, "geometry": { "type": "Point", "coordinates": [ 131.2474, 34.363927 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "日置支所", "P34_004": "長門市日置上5926" }, "geometry": { "type": "Point", "coordinates": [ 131.103587, 34.3849 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "油谷支所", "P34_004": "長門市油谷新別名964" }, "geometry": { "type": "Point", "coordinates": [ 131.059086, 34.373275 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "通出張所", "P34_004": "長門市通671-2" }, "geometry": { "type": "Point", "coordinates": [ 131.255023, 34.42358 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "仙崎出張所", "P34_004": "長門市仙崎1374" }, "geometry": { "type": "Point", "coordinates": [ 131.199445, 34.391923 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "俵山出張所", "P34_004": "長門市俵山2302-1" }, "geometry": { "type": "Point", "coordinates": [ 131.11313, 34.283072 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "宇津賀出張所", "P34_004": "長門市油谷後畑1894-1" }, "geometry": { "type": "Point", "coordinates": [ 131.04883, 34.404666 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35211", "P34_002": "2", "P34_003": "向津具出張所", "P34_004": "長門市油谷向津具下3265-2" }, "geometry": { "type": "Point", "coordinates": [ 130.97265, 34.409947 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "1", "P34_003": "柳井市役所", "P34_004": "柳井市南町1-10-2" }, "geometry": { "type": "Point", "coordinates": [ 132.101597, 33.963839 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "日積出張所", "P34_004": "柳井市日積6937" }, "geometry": { "type": "Point", "coordinates": [ 132.153511, 33.999847 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "伊陸出張所", "P34_004": "柳井市伊陸5874-１" }, "geometry": { "type": "Point", "coordinates": [ 132.10923, 34.028849 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "新庄出張所", "P34_004": "柳井市新庄327-１" }, "geometry": { "type": "Point", "coordinates": [ 132.088642, 33.971688 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "余田出張所", "P34_004": "柳井市余田1417" }, "geometry": { "type": "Point", "coordinates": [ 132.069132, 33.970332 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "伊保庄出張所", "P34_004": "柳井市伊保庄2564" }, "geometry": { "type": "Point", "coordinates": [ 132.124564, 33.926501 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "阿月出張所", "P34_004": "柳井市阿月1748-2" }, "geometry": { "type": "Point", "coordinates": [ 132.127901, 33.902524 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "平郡出張所", "P34_004": "柳井市平郡1834" }, "geometry": { "type": "Point", "coordinates": [ 132.259083, 33.779487 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "大畠出張所", "P34_004": "柳井市大畠1500" }, "geometry": { "type": "Point", "coordinates": [ 132.169633, 33.960855 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35212", "P34_002": "2", "P34_003": "西平郡連絡所", "P34_004": "柳井市平郡4694" }, "geometry": { "type": "Point", "coordinates": [ 132.20215, 33.8013 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "1", "P34_003": "美祢市役所", "P34_004": "美祢市大嶺町東分326-1" }, "geometry": { "type": "Point", "coordinates": [ 131.205703, 34.16667 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "美東総合支所", "P34_004": "美祢市美東町大田5936" }, "geometry": { "type": "Point", "coordinates": [ 131.342729, 34.225174 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "秋芳総合支所", "P34_004": "美祢市秋芳町秋吉5335-1" }, "geometry": { "type": "Point", "coordinates": [ 131.293155, 34.213631 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "豊田前出張所", "P34_004": "美祢市豊田前町麻生下572" }, "geometry": { "type": "Point", "coordinates": [ 131.122389, 34.198353 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "於福出張所", "P34_004": "美祢市於福町下2848-1" }, "geometry": { "type": "Point", "coordinates": [ 131.20744, 34.234849 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "厚保出張所", "P34_004": "美祢市西厚保町本郷185" }, "geometry": { "type": "Point", "coordinates": [ 131.153557, 34.111457 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "赤郷出張所", "P34_004": "美祢市美東町赤425" }, "geometry": { "type": "Point", "coordinates": [ 131.34485, 34.277594 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "綾木出張所", "P34_004": "美祢市美東町綾木2437" }, "geometry": { "type": "Point", "coordinates": [ 131.348533, 34.193395 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "真長田出張所", "P34_004": "美祢市美東町真名529" }, "geometry": { "type": "Point", "coordinates": [ 131.354104, 34.164653 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "嘉万出張所", "P34_004": "美祢市秋芳町嘉万4608-3" }, "geometry": { "type": "Point", "coordinates": [ 131.26283, 34.268767 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "別府出張所", "P34_004": "美祢市秋芳町別府1643-1" }, "geometry": { "type": "Point", "coordinates": [ 131.248214, 34.253023 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35213", "P34_002": "2", "P34_003": "岩永出張所", "P34_004": "美祢市秋芳町岩永下郷3203-4" }, "geometry": { "type": "Point", "coordinates": [ 131.288163, 34.18702 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "1", "P34_003": "周南市役所", "P34_004": "周南市岐山通1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.806293, 34.055135 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "新南陽総合支所", "P34_004": "周南市富田1-1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.7495, 34.072824 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "熊毛総合支所", "P34_004": "周南市熊毛中央町1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.96897, 34.049532 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "鹿野総合支所", "P34_004": "周南市鹿野上3277" }, "geometry": { "type": "Point", "coordinates": [ 131.81722, 34.231961 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "櫛浜支所", "P34_004": "周南市櫛ヶ浜458" }, "geometry": { "type": "Point", "coordinates": [ 131.83094, 34.023995 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "鼓南支所", "P34_004": "周南市大島1601" }, "geometry": { "type": "Point", "coordinates": [ 131.790064, 33.987997 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "久米支所", "P34_004": "周南市久米2812-1" }, "geometry": { "type": "Point", "coordinates": [ 131.845924, 34.041057 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "菊川支所", "P34_004": "周南市下上2146" }, "geometry": { "type": "Point", "coordinates": [ 131.783807, 34.093679 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "夜市支所", "P34_004": "周南市夜市660-1" }, "geometry": { "type": "Point", "coordinates": [ 131.714034, 34.08222 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "戸田支所", "P34_004": "周南市戸田2845-2" }, "geometry": { "type": "Point", "coordinates": [ 131.687256, 34.077859 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "湯野支所", "P34_004": "周南市湯野4230-1" }, "geometry": { "type": "Point", "coordinates": [ 131.676789, 34.09341 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "大津島支所", "P34_004": "周南市大津島1361-4" }, "geometry": { "type": "Point", "coordinates": [ 131.710389, 34.017733 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "向道支所", "P34_004": "周南市大道理1299-1" }, "geometry": { "type": "Point", "coordinates": [ 131.806709, 34.140638 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "長穂支所", "P34_004": "周南市長穂885" }, "geometry": { "type": "Point", "coordinates": [ 131.8428, 34.136767 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "須々万支所", "P34_004": "周南市須々万本郷478-2" }, "geometry": { "type": "Point", "coordinates": [ 131.869015, 34.122514 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "中須支所", "P34_004": "周南市中須南2557-1" }, "geometry": { "type": "Point", "coordinates": [ 131.916932, 34.113861 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "須金支所", "P34_004": "周南市須万2427-2" }, "geometry": { "type": "Point", "coordinates": [ 131.92429, 34.199266 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "和田支所", "P34_004": "周南市垰163" }, "geometry": { "type": "Point", "coordinates": [ 131.735383, 34.14923 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35215", "P34_002": "2", "P34_003": "八代支所", "P34_004": "周南市八代826-8" }, "geometry": { "type": "Point", "coordinates": [ 131.938798, 34.086339 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35216", "P34_002": "1", "P34_003": "山陽小野田市役所", "P34_004": "山陽小野田市日の出1-1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.18179, 34.003089 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35216", "P34_002": "2", "P34_003": "山陽総合事務所", "P34_004": "山陽小野田市鴨庄94" }, "geometry": { "type": "Point", "coordinates": [ 131.160334, 34.056296 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35216", "P34_002": "2", "P34_003": "南支所", "P34_004": "山陽小野田市赤崎1-1-1" }, "geometry": { "type": "Point", "coordinates": [ 131.173494, 33.964286 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35216", "P34_002": "2", "P34_003": "埴生支所", "P34_004": "山陽小野田市大字埴生525-1" }, "geometry": { "type": "Point", "coordinates": [ 131.091663, 34.04037 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35216", "P34_002": "2", "P34_003": "公園通出張所", "P34_004": "山陽小野田市中央2-3-1" }, "geometry": { "type": "Point", "coordinates": [ 131.177018, 33.979127 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35216", "P34_002": "2", "P34_003": "厚陽出張所", "P34_004": "山陽小野田市大字郡3226-11" }, "geometry": { "type": "Point", "coordinates": [ 131.14803, 34.02208 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "1", "P34_003": "周防大島町役場", "P34_004": "周防大島町大字小松126-2" }, "geometry": { "type": "Point", "coordinates": [ 132.19532, 33.927628 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "久賀庁舎", "P34_004": "周防大島町大字久賀5134" }, "geometry": { "type": "Point", "coordinates": [ 132.26039, 33.946514 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "橘庁舎", "P34_004": "周防大島町大字西安下庄3920-3" }, "geometry": { "type": "Point", "coordinates": [ 132.279666, 33.899082 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "東和庁舎", "P34_004": "周防大島町大字平野417-11" }, "geometry": { "type": "Point", "coordinates": [ 132.354606, 33.907864 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "沖浦出張所", "P34_004": "周防大島町大字戸田929-1" }, "geometry": { "type": "Point", "coordinates": [ 132.200904, 33.882899 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "蒲野出張所", "P34_004": "周防大島町大字東三蒲1704-1" }, "geometry": { "type": "Point", "coordinates": [ 132.211788, 33.944305 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "椋野出張所", "P34_004": "周防大島町大字椋野1350-1" }, "geometry": { "type": "Point", "coordinates": [ 132.231317, 33.956568 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "日良居出張所", "P34_004": "周防大島町大字土居1078-1" }, "geometry": { "type": "Point", "coordinates": [ 132.304702, 33.916165 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "白木出張所", "P34_004": "周防大島町大字外入1850-4" }, "geometry": { "type": "Point", "coordinates": [ 132.334283, 33.885802 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "和田出張所", "P34_004": "周防大島町大字和田1310" }, "geometry": { "type": "Point", "coordinates": [ 132.404694, 33.929205 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35305", "P34_002": "2", "P34_003": "油田出張所", "P34_004": "周防大島町大字伊保田1769-6" }, "geometry": { "type": "Point", "coordinates": [ 132.438238, 33.94446 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35321", "P34_002": "1", "P34_003": "和木町役場", "P34_004": "和木町和木1-1-1" }, "geometry": { "type": "Point", "coordinates": [ 132.220405, 34.202408 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35341", "P34_002": "1", "P34_003": "上関町役場", "P34_004": "上関町長島503" }, "geometry": { "type": "Point", "coordinates": [ 132.110772, 33.831093 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35341", "P34_002": "2", "P34_003": "室津支所", "P34_004": "上関町大字室津847" }, "geometry": { "type": "Point", "coordinates": [ 132.117475, 33.834645 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35341", "P34_002": "2", "P34_003": "祝島支所", "P34_004": "上関町大字祝島184-4" }, "geometry": { "type": "Point", "coordinates": [ 131.989582, 33.787252 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35343", "P34_002": "1", "P34_003": "田布施町役場", "P34_004": "田布施町大字下田布施3440-1" }, "geometry": { "type": "Point", "coordinates": [ 132.041366, 33.954677 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35344", "P34_002": "1", "P34_003": "平生町役場", "P34_004": "平生町大字平生町210-1" }, "geometry": { "type": "Point", "coordinates": [ 132.073057, 33.937969 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35344", "P34_002": "2", "P34_003": "佐賀出張所", "P34_004": "平生町大字佐賀1525-1" }, "geometry": { "type": "Point", "coordinates": [ 132.082987, 33.893383 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35502", "P34_002": "1", "P34_003": "阿武町役場", "P34_004": "阿武町大字奈古2636" }, "geometry": { "type": "Point", "coordinates": [ 131.47136, 34.503352 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35502", "P34_002": "2", "P34_003": "福賀支所", "P34_004": "阿武町大字福田下1365" }, "geometry": { "type": "Point", "coordinates": [ 131.597524, 34.51706 ] } }
+,
+{ "type": "Feature", "properties": { "P34_001": "35502", "P34_002": "2", "P34_003": "宇田郷支所", "P34_004": "阿武町大字宇田2224" }, "geometry": { "type": "Point", "coordinates": [ 131.546279, 34.566502 ] } }
+
+]
+}
