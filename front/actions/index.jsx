@@ -1,14 +1,14 @@
-export const centerChange = (bounds, timeoutId) => {
+export const mapIdle = (bounds, timeoutId) => {
   return {
-    type: 'CENTER_CHANGE',
+    type: 'MAP_IDLE',
     bounds,
     timeoutId
   }
 }
 
-export const centerChangeTimeout = (timeoutId) => {
+export const mapIdleTimeout = (timeoutId) => {
   return {
-    type: 'CENTER_CHANGE_TIMEOUT',
+    type: 'MAP_IDLE_TIMEOUT',
     timeoutId
   }
 }

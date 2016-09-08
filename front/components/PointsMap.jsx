@@ -23,14 +23,14 @@ class PointsMap extends Component {
     bounds: PropTypes.object.isRequired,
     markers: PropTypes.array.isRequired,
     timeoutId: PropTypes.number,
-    centerChange: PropTypes.func.isRequired,
-    centerChangeTimeout: PropTypes.func.isRequired,
+    mapIdle: PropTypes.func.isRequired,
+    mapIdleTimeout: PropTypes.func.isRequired,
     markerClick: PropTypes.func.isRequired,
   }
 
   static googleMapVersion = Math.ceil(Math.random() * 22)
 
-  handleIdle() {
+  handleMapIdle() {
     if (this.props.timeoutId) {
       return
     }
@@ -40,10 +40,10 @@ class PointsMap extends Component {
 
     const timeoutId = setTimeout(() => {
       clearTimeout(timeoutId)
-      this.props.centerChangeTimeout(timeoutId)
+      this.props.mapIdleTimeout(timeoutId)
     }, 1000)
 
-    this.props.centerChange({
+    this.props.mapIdle({
       center: {
         lat: newPos.lat(),
         lng: newPos.lng(),
@@ -95,7 +95,7 @@ class PointsMap extends Component {
             ref="map"
             defaultZoom={13}
             defaultCenter={{ lat: 33.5925, lng: 130.3997 }}
-            onIdle={::this.handleIdle}
+            onIdle={::this.handleMapIdle}
           >
             {this.props.markers.map((marker, index) => {
               return (

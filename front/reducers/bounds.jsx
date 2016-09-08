@@ -15,7 +15,7 @@ const initialBounds = {
 
 const bounds = (state = initialBounds, action) => {
   switch (action.type) {
-    case 'CENTER_CHANGE':
+    case 'MAP_IDLE':
       return action.bounds
     default:
       return state

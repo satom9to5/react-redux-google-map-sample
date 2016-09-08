@@ -1,8 +1,8 @@
 const timeoutId = (state = null, action) => {
   switch (action.type) {
-    case 'CENTER_CHANGE':
+    case 'MAP_IDLE':
       return action.timeoutId
-    case 'CENTER_CHANGE_TIMEOUT':
+    case 'MAP_IDLE_TIMEOUT':
       return null
     default:
       return state

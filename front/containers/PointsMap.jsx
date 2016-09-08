@@ -1,9 +1,9 @@
 import { connect } from 'react-redux'
 
 import {
-  centerChange,
-  centerChangeSetTimeout,
-  centerChangeTimeout,
+  mapIdle,
+  mapIdleSetTimeout,
+  mapIdleTimeout,
   responsePoints,
   markerClick
 } from '../actions'
@@ -20,15 +20,15 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    centerChange: (bounds, timeoutId) => {
-      dispatch(centerChange(bounds, timeoutId))
+    mapIdle: (bounds, timeoutId) => {
+      dispatch(mapIdle(bounds, timeoutId))
 
       fetch(`/points?minlat=${bounds.southWest.lat}&maxlat=${bounds.northEast.lat}&minlng=${bounds.southWest.lng}&maxlng=${bounds.northEast.lng}`)
         .then(response => response.json())
         .then(json => dispatch(responsePoints(json)))
     },
-    centerChangeTimeout: (timeoutId) => {
-      dispatch(centerChangeTimeout(timeoutId))
+    mapIdleTimeout: (timeoutId) => {
+      dispatch(mapIdleTimeout(timeoutId))
     },
     markerClick: (marker) => {
       dispatch(markerClick(marker))
