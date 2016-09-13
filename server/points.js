@@ -17,8 +17,11 @@ fs.readdir('./data/', (err, files) => {
       }
 
       const geojson = JSON.parse(data);
+      let preforder = 1;
       geojson.features.forEach(feature => {
+        feature.properties.id = feature.properties.P34_001 + '-' + preforder;
         featureList.push(feature);
+        preforder++;
       });
     });
   });

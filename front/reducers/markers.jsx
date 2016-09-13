@@ -2,7 +2,7 @@ const marker = (state, action) => {
   switch (action.type) {
     case 'RESPONSE_POINTS':
       return {
-        id: state.properties.P34_001 + '-' + state.properties.P34_003,
+        id: state.properties.id,
         position: {
           lat: state.geometry.coordinates[1],
           lng: state.geometry.coordinates[0],
